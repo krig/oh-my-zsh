@@ -1,4 +1,4 @@
-export PATH=$HOME/bin:$HOME/projects/go/bin:/opt/local/bin:/usr/local/share/python:/usr/local/bin:/usr/local/sbin:$PATH
+export PATH=$HOME/bin:$HOME/code/go/bin:/opt/local/bin:/usr/local/share/python:/usr/local/bin:/usr/local/sbin:$PATH
 
 # Path to your oh-my-zsh configuration.
 ZSH=$HOME/.oh-my-zsh

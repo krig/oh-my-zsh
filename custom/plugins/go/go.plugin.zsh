@@ -1,4 +1,4 @@
-export GOROOT=$HOME/projects/go
-export GOPATH=$HOME/projects/mine/go
+export GOROOT=$HOME/code/go
+export GOPATH=$HOME/code/mine
 export GOOS=darwin
 export GOARCH=amd64
